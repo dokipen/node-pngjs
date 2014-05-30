@@ -22,5 +22,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/brighthas/node-pngjs/issues"
+  },
+  "dependencies": {
+    "iconv-lite": "^0.2.11"
   }
 }
